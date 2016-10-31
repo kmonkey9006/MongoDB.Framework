@@ -1,0 +1,5 @@
+C:\Users\jhjzAdmin\Desktop\ref\mongodb\MongoDB.Framework.dll
+C:\Users\jhjzAdmin\Desktop\ref\mongodb\MongoDB.Framework.pdb
+C:\Users\jhjzAdmin\Desktop\MongoDB.Repository-master\src\MongoDB.Repository\obj\Debug\MongoDB.Framework.csprojResolveAssemblyReference.cache
+C:\Users\jhjzAdmin\Desktop\MongoDB.Repository-master\src\MongoDB.Repository\obj\Debug\MongoDB.Framework.dll
+C:\Users\jhjzAdmin\Desktop\MongoDB.Repository-master\src\MongoDB.Repository\obj\Debug\MongoDB.Framework.pdb
